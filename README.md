@@ -1,4 +1,4 @@
-# [📈 Live Status](https://ripplelog.xyz): <!--live status--> **所有系统都可以正常运行**
+# [📈 Live Status](https://ripplelog.xyz): <!--live status--> **网站还没倒。暂时的**
 
 This repository contains the open-source uptime monitor and status page for [celestialripple](https://ripplelog.xyz), powered by [Upptime](https://github.com/upptime/upptime).
 
