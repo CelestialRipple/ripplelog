@@ -5,7 +5,10 @@ repo: ripplelog
 sites: 
   - name: ripplelog
     url: www.ripplelog.xyz
-
+  - name: qinglong
+    url: 139.180.154.16:5700
+  - name: Xray proxy
+    url: 139.180.154.16:54321
 
 status-website: 
     cname: status.ripplelog.xyz
