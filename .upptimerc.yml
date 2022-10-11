@@ -7,8 +7,8 @@ sites:
     url: www.ripplelog.xyz
 
 
-status-website:
-  baseUrl: ripple
-  name: status
+status-website: 
+    cname: status.ripplelog.xyz
+    name: status
     
 navbar:
