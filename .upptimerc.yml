@@ -4,7 +4,7 @@ repo: ripplelog
 
 status-website: 
     #cname: demo.upptime.js.org 
-    baseUrl: /upptime
+    baseUrl: ripplelog
 
 status-website: 
     cname: ripplelog.xyz
