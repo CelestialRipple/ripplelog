@@ -2,9 +2,9 @@ owner: celestialripple
 
 repo: ripplelog
 
-sites: 
-  - name: ripplelog
-    url: www.ripplelog.xyz
+status-website: 
+    #cname: demo.upptime.js.org 
+    baseUrl: /upptime
 
 status-website: 
     cname: ripplelog.xyz
