@@ -2,6 +2,11 @@ owner: celestialripple
 
 repo: ripplelog
 
+sites: 
+  - name: ripplelog
+    url: www.ripplelog.xyz
+
+
 status-website:
   baseUrl: ripple
   name: status
