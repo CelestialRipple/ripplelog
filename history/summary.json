@@ -4,19 +4,19 @@
     "url": "www.ripplelog.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ripplelog",
-    "status": "down",
-    "uptime": "95.33%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
-    "time": 889,
-    "timeDay": 752,
-    "timeWeek": 889,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "status": "up",
+    "uptime": "94.08%",
+    "uptimeDay": "88.49%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "94.08%",
+    "time": 895,
+    "timeDay": 818,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {
-      "2022-10-13": 129
+      "2022-10-13": 166
     }
   },
   {
