@@ -15,7 +15,14 @@ sites:
     url: cloud.ripplelog.xyz
   - name: ariagn
     url: ariang.js.org/#!/settings/rpc/set/ws/47.243.168.109/6800/jsonrpc/MTZiNmQ3MGNjM2ExOWRkOWE1N2E=
-
+  - name: Draw
+    url: https://draw.ripplelog.xyz
+  - name: docker
+    url: https://docker.ripplelog.xyz/#!/auth
+  - name: video
+    url: https://video.ripplelog.xyz/
+  - name: music
+    url: https://music.ripplelog.xyz/app/#/login
 status-website: 
     cname: status.ripplelog.xyz
     name: status
