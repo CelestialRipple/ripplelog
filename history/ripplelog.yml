@@ -1,7 +1,7 @@
 url: www.ripplelog.xyz
-status: up
-code: 200
-responseTime: 1080
-lastUpdated: 2022-10-12T23:55:10.392Z
+status: down
+code: 400
+responseTime: 424
+lastUpdated: 2022-10-13T07:22:22.720Z
 startTime: Tue Oct 11 2022 09:18:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
