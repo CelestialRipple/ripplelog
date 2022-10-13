@@ -6,9 +6,15 @@ sites:
   - name: ripplelog
     url: www.ripplelog.xyz
   - name: qinglong
-    url: 139.180.154.16:5700
+    url: qinglong.chiaki.ltd
   - name: Xray proxy
-    url: 139.180.154.16:54321
+    url: xray.chiaki.ltd
+  - name: nginx proxy
+    url: ng.chiaki.ltd
+  - name: 克劳德™
+    url: cloud.ripplelog.xyz
+  - name: ariagn
+    url: ariang.js.org/#!/settings/rpc/set/ws/47.243.168.109/6800/jsonrpc/MTZiNmQ3MGNjM2ExOWRkOWE1N2E=
 
 status-website: 
     cname: status.ripplelog.xyz
