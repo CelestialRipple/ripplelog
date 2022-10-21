@@ -23,6 +23,8 @@ sites:
     url: https://video.ripplelog.xyz/
   - name: music
     url: https://music.ripplelog.xyz/app/#/login
+  - name: Vaultwarden
+    url: https://pass.ripplelog.xyz/
 status-website: 
     cname: status.ripplelog.xyz
     name: status
