@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ripplelog",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 994,
     "timeDay": 756,
     "timeWeek": 1033,
@@ -80,7 +80,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.42%",
@@ -90,6 +90,7 @@
     "timeMonth": 750,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2022-11-02": 0,
       "2022-10-13": 166
     }
   },
@@ -170,18 +171,20 @@
     "url": "https://music.ripplelog.xyz/app/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/music.ripplelog.xyz.ico",
     "slug": "music",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 595,
-    "timeWeek": 575,
-    "timeMonth": 609,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "time": 604,
+    "timeDay": 549,
+    "timeWeek": 566,
+    "timeMonth": 604,
+    "timeYear": 604,
+    "dailyMinutesDown": {
+      "2022-11-02": 0
+    }
   },
   {
     "name": "Vaultwarden",
