@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.48%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.48%",
     "time": 572,
     "timeDay": 503,
     "timeWeek": 448,
     "timeMonth": 470,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-12-11": 0,
+      "2022-12-11": 17,
       "2022-11-04": 152,
       "2022-11-02": 112,
       "2022-10-13": 166
@@ -119,9 +119,9 @@
     "url": "https://draw.ripplelog.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/draw.ripplelog.xyz.ico",
     "slug": "draw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 145,
     "timeMonth": 152,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-11": 0
+    }
   },
   {
     "name": "docker",
@@ -174,18 +176,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.ripplelog.xyz.ico",
     "slug": "music",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.67%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.67%",
     "time": 572,
     "timeDay": 531,
     "timeWeek": 534,
     "timeMonth": 546,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-12-11": 0,
+      "2022-12-11": 17,
       "2022-11-04": 152,
       "2022-11-02": 112
     }
@@ -195,9 +197,9 @@
     "url": "https://pass.ripplelog.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/pass.ripplelog.xyz.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,6 +208,8 @@
     "timeWeek": 448,
     "timeMonth": 456,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-11": 0
+    }
   }
 ]
