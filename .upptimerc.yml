@@ -3,30 +3,28 @@ owner: celestialripple
 repo: ripplelog
 
 sites: 
-  - name: ripplelog
-    url: www.ripplelog.xyz
+  - name: hiRipple
+    url: hiripple.com
   - name: qinglong
-    url: qinglong.chiaki.ltd
+    url: qinglong.hiripple.com
   - name: Xray proxy
-    url: xray.chiaki.ltd
+    url: xray.hiripple.com
   - name: nginx proxy
-    url: ng.chiaki.ltd
+    url: ng2.hiripple.com
   - name: 克劳德™
-    url: cloud.ripplelog.xyz
-  - name: ariagn
-    url: ariang.js.org/#!/settings/rpc/set/ws/47.243.168.109/6800/jsonrpc/MTZiNmQ3MGNjM2ExOWRkOWE1N2E=
+    url: cloud.hiripple.com
   - name: Draw
-    url: https://draw.ripplelog.xyz
+    url: https://draw.hiripple.com
   - name: docker
-    url: https://docker.ripplelog.xyz/#!/auth
+    url: https://docker.hiripple.com
   - name: video
-    url: https://video.ripplelog.xyz/
+    url: https://videohiripple.com
   - name: music
-    url: https://music.ripplelog.xyz/app/#/login
+    url: https://music.hiripple.com
   - name: Vaultwarden
-    url: https://pass.ripplelog.xyz/
+    url: https://pass.hiripple.com
 status-website: 
-    cname: status.ripplelog.xyz
+    cname: status.hiripple.com
     name: status
     
 navbar:
