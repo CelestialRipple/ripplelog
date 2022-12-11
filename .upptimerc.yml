@@ -18,11 +18,13 @@ sites:
   - name: docker
     url: https://docker.hiripple.com
   - name: video
-    url: https://videohiripple.com
+    url: https://video.hiripple.com
   - name: music
     url: https://music.hiripple.com
   - name: Vaultwarden
     url: https://pass.hiripple.com
+  - name: mirror
+    url: https://mirror.hiripple.com
 status-website: 
     cname: status.hiripple.com
     name: status
