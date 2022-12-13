@@ -77,17 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.34%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 588,
     "timeDay": 1009,
     "timeWeek": 621,
     "timeMonth": 517,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2022-12-13": 0,
       "2022-12-11": 151,
       "2022-11-04": 152,
       "2022-11-02": 112,
@@ -197,17 +198,19 @@
     "url": "https://mirror.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.hiripple.com.ico",
     "slug": "mirror",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1369,
     "timeDay": 1441,
     "timeWeek": 1369,
     "timeMonth": 1369,
     "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   }
 ]
