@@ -25,19 +25,19 @@
     "url": "qinglong.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qinglong",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "72.56%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "71.83%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.87%",
-    "time": 797,
-    "timeDay": 1029,
-    "timeWeek": 1006,
-    "timeMonth": 946,
-    "timeYear": 797,
+    "time": 796,
+    "timeDay": 762,
+    "timeWeek": 942,
+    "timeMonth": 931,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-05-17": 395
+      "2023-05-17": 406
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "xray.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xray-proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "72.66%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "71.93%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.87%",
-    "time": 829,
-    "timeDay": 1077,
-    "timeWeek": 1039,
-    "timeMonth": 958,
-    "timeYear": 829,
+    "time": 827,
+    "timeDay": 764,
+    "timeWeek": 965,
+    "timeMonth": 942,
+    "timeYear": 827,
     "dailyMinutesDown": {
-      "2023-05-17": 394
+      "2023-05-17": 404
     }
   },
   {
@@ -67,9 +67,9 @@
     "slug": "nginx-proxy",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "72.77%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "72.03%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.87%",
     "time": 743,
     "timeDay": 874,
@@ -77,7 +77,7 @@
     "timeMonth": 734,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2023-05-17": 392
+      "2023-05-17": 403
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "26.76%",
+    "uptime": "26.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.76%",
+    "uptimeYear": "26.75%",
     "time": 774,
     "timeDay": 799,
     "timeWeek": 896,
     "timeMonth": 848,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2023-05-17": 3369,
+      "2023-05-17": 3423,
       "2023-01-25": 1460,
       "2023-01-18": 1461,
       "2022-12-15": 1898,
@@ -306,18 +306,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/video.hiripple.com.ico",
     "slug": "video",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "73.19%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "72.45%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.87%",
     "time": 770,
     "timeDay": 859,
     "timeWeek": 904,
     "timeMonth": 986,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-05-17": 386
+      "2023-05-17": 397
     }
   },
   {
@@ -383,7 +383,7 @@
     "timeMonth": 0,
     "timeYear": 1369,
     "dailyMinutesDown": {
-      "2023-05-17": 677,
+      "2023-05-17": 687,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
