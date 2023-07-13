@@ -105,7 +105,7 @@
     "timeMonth": 1453,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-07-13": 684,
+      "2023-07-13": 698,
       "2023-07-12": 1676,
       "2023-06-01": 2025,
       "2023-05-31": 2887,
@@ -400,9 +400,9 @@
     "url": "https://pass.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.hiripple.com.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.12%",
+    "uptimeDay": "98.10%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
@@ -412,6 +412,7 @@
     "timeMonth": 1364,
     "timeYear": 626,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-07-12": 27,
       "2023-06-01": 117,
       "2023-05-31": 1,
