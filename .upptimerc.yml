@@ -7,8 +7,6 @@ sites:
     url: hiripple.com
   - name: qinglong
     url: qinglong.hiripple.com
-  - name: Xray proxy
-    url: xray.hiripple.com
   - name: nginx proxy
     url: ng.hiripple.com
   - name: 克劳德™
@@ -17,8 +15,6 @@ sites:
     url: https://draw.hiripple.com
   - name: docker
     url: https://docker.hiripple.com
-  - name: music
-    url: https://music.hiripple.com
   - name: Vaultwarden
     url: https://pass.hiripple.com
 status-website: 
