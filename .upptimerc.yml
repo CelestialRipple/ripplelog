@@ -11,8 +11,6 @@ sites:
     url: ng.hiripple.com
   - name: 克劳德™
     url: cloud.hiripple.com
-  - name: Draw
-    url: https://draw.hiripple.com
   - name: docker
     url: https://docker.hiripple.com
   - name: Vaultwarden
