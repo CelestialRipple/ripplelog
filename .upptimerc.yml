@@ -6,15 +6,23 @@ sites:
   - name: hiRipple
     url: hiripple.com
   - name: qinglong
-    url: qinglong.hiripple.com
+    url: ql.hiripple.com
   - name: nginx proxy
-    url: ng.hiripple.com
+    url: ngnew.hiripple.com
   - name: 克劳德™
     url: cloud.hiripple.com
   - name: docker
     url: https://docker.hiripple.com
   - name: Vaultwarden
     url: https://pass.hiripple.com
+  - name: Nextcloud
+    url: https://nextcloud.hiripple.com
+  - name: Alist
+    url: https://alist.hiripple.com
+  - name: HomeAssistant
+    url: https://ha.hiripple.com
+  - name: MyNas
+    url: https://unraid.hiripple.com
 status-website: 
     cname: status.hiripple.com
     name: status
