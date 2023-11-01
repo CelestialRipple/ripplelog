@@ -27,7 +27,7 @@
     "slug": "qinglong",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "79.51%",
+    "uptimeDay": "79.53%",
     "uptimeWeek": "11.36%",
     "uptimeMonth": "59.94%",
     "uptimeYear": "96.57%",
@@ -63,7 +63,7 @@
     "slug": "nginx-proxy",
     "status": "up",
     "uptime": "96.72%",
-    "uptimeDay": "79.53%",
+    "uptimeDay": "79.55%",
     "uptimeWeek": "11.36%",
     "uptimeMonth": "59.94%",
     "uptimeYear": "96.55%",
@@ -526,18 +526,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrent.hiripple.com.ico",
     "slug": "jackett",
     "status": "down",
-    "uptime": "5.56%",
-    "uptimeDay": "5.56%",
-    "uptimeWeek": "5.56%",
-    "uptimeMonth": "5.56%",
-    "uptimeYear": "5.56%",
+    "uptime": "3.28%",
+    "uptimeDay": "3.28%",
+    "uptimeWeek": "3.28%",
+    "uptimeMonth": "3.28%",
+    "uptimeYear": "3.28%",
     "time": 659,
     "timeDay": 659,
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2023-11-01": 0
+      "2023-11-01": 1
     }
   },
   {
