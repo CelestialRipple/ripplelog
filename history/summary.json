@@ -28,7 +28,7 @@
     "status": "up",
     "uptime": "96.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.76%",
+    "uptimeWeek": "26.04%",
     "uptimeMonth": "59.94%",
     "uptimeYear": "96.57%",
     "time": 589,
@@ -64,7 +64,7 @@
     "status": "up",
     "uptime": "96.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.76%",
+    "uptimeWeek": "26.04%",
     "uptimeMonth": "59.94%",
     "uptimeYear": "96.55%",
     "time": 548,
@@ -110,7 +110,7 @@
     "timeMonth": 997,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-11-02": 413,
+      "2023-11-02": 470,
       "2023-11-01": 1039,
       "2023-10-31": 3482,
       "2023-10-30": 7200,
@@ -507,19 +507,19 @@
     "url": "https://ha.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/ha.hiripple.com.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 377,
-    "timeDay": 376,
-    "timeWeek": 377,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 368,
+    "timeDay": 352,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 29
     }
   },
   {
@@ -539,7 +539,7 @@
     "timeMonth": 676,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-11-02": 413,
+      "2023-11-02": 441,
       "2023-11-01": 1039
     }
   },
