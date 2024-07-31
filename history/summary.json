@@ -13,7 +13,7 @@
     "time": 985,
     "timeDay": 936,
     "timeWeek": 964,
-    "timeMonth": 936,
+    "timeMonth": 927,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2024-03-01": 17
@@ -26,17 +26,16 @@
     "slug": "qinglong",
     "status": "up",
     "uptime": "92.63%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "49.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "46.36%",
     "uptimeYear": "86.71%",
     "time": 598,
     "timeDay": 431,
     "timeWeek": 528,
-    "timeMonth": 405,
+    "timeMonth": 397,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-07-30": 10,
       "2024-07-18": 77,
       "2024-07-16": 414,
       "2024-07-15": 1440,
@@ -133,7 +132,7 @@
       "2023-12-26": 24,
       "2023-12-15": 29,
       "2023-12-13": 25,
-      "2023-12-04": 23
+      "2023-12-04": 44
     }
   },
   {
@@ -150,7 +149,7 @@
     "time": 767,
     "timeDay": 351,
     "timeWeek": 281,
-    "timeMonth": 755,
+    "timeMonth": 762,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-10-31": 696,
@@ -175,19 +174,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "81.79%",
+    "uptime": "81.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.25%",
+    "uptimeYear": "67.20%",
     "time": 904,
     "timeDay": 492,
     "timeWeek": 521,
-    "timeMonth": 775,
+    "timeMonth": 786,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2024-07-30": 1489,
       "2024-07-18": 1825,
+      "2024-07-31": 33,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -237,7 +237,7 @@
       "2024-04-03": 1579,
       "2024-04-02": 1175,
       "2024-03-28": 16,
-      "2024-03-26": 23
+      "2024-03-26": 318
     }
   },
   {
@@ -246,18 +246,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.hiripple.com.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "97.92%",
+    "uptime": "97.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.97%",
-    "uptimeYear": "96.33%",
+    "uptimeMonth": "55.90%",
+    "uptimeYear": "96.32%",
     "time": 615,
     "timeDay": 375,
     "timeWeek": 387,
-    "timeMonth": 662,
+    "timeMonth": 656,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-07-30": 1439,
+      "2024-07-31": 33,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -287,7 +288,7 @@
     "time": 613,
     "timeDay": 641,
     "timeWeek": 569,
-    "timeMonth": 604,
+    "timeMonth": 612,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -298,17 +299,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "82.26%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "49.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "46.36%",
     "uptimeYear": "82.26%",
     "time": 1128,
     "timeDay": 814,
     "timeWeek": 1041,
-    "timeMonth": 727,
+    "timeMonth": 712,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-07-30": 10,
       "2024-07-18": 77,
       "2024-07-16": 414,
       "2024-07-15": 1440,
@@ -405,7 +405,7 @@
       "2023-12-26": 24,
       "2023-12-15": 29,
       "2023-12-13": 25,
-      "2023-12-04": 23
+      "2023-12-04": 44
     }
   },
   {
@@ -415,17 +415,16 @@
     "slug": "alist",
     "status": "up",
     "uptime": "82.24%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "49.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "46.36%",
     "uptimeYear": "82.24%",
     "time": 503,
     "timeDay": 474,
     "timeWeek": 557,
-    "timeMonth": 422,
+    "timeMonth": 414,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2024-07-30": 10,
       "2024-07-18": 77,
       "2024-07-16": 414,
       "2024-07-15": 1440,
@@ -521,7 +520,8 @@
       "2024-01-09": 231,
       "2023-12-30": 232,
       "2023-12-29": 19,
-      "2023-12-26": 24
+      "2023-12-26": 24,
+      "2023-12-15": 29
     }
   },
   {
@@ -531,17 +531,16 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "82.25%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "49.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "46.36%",
     "uptimeYear": "82.25%",
     "time": 508,
     "timeDay": 465,
     "timeWeek": 542,
-    "timeMonth": 415,
+    "timeMonth": 408,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-07-30": 10,
       "2024-07-18": 77,
       "2024-07-16": 414,
       "2024-07-15": 1440,
@@ -639,7 +638,7 @@
       "2023-12-26": 24,
       "2023-12-15": 29,
       "2023-12-13": 25,
-      "2023-12-04": 23
+      "2023-12-04": 45
     }
   },
   {
@@ -651,7 +650,7 @@
     "uptime": "0.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.01%",
     "time": 1387,
     "timeDay": 0,
@@ -659,7 +658,8 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-07-30": 1439,
+      "2024-07-31": 33,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -941,17 +941,16 @@
     "slug": "my-nas",
     "status": "up",
     "uptime": "82.14%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "49.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "46.36%",
     "uptimeYear": "82.14%",
     "time": 1129,
     "timeDay": 1009,
     "timeWeek": 1251,
-    "timeMonth": 868,
+    "timeMonth": 849,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2024-07-30": 10,
       "2024-07-18": 77,
       "2024-07-16": 414,
       "2024-07-15": 1440,
@@ -1051,7 +1050,8 @@
       "2023-12-15": 29,
       "2023-12-13": 25,
       "2023-12-04": 156,
-      "2023-12-03": 55
+      "2023-12-03": 55,
+      "2023-11-19": 23
     }
   }
 ]
