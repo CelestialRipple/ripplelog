@@ -1,7 +1,7 @@
 url: ql.hiripple.com
-status: up
-code: 200
-responseTime: 11157
-lastUpdated: 2024-08-18T14:37:39.867Z
+status: down
+code: 502
+responseTime: 375
+lastUpdated: 2024-08-18T14:48:03.994Z
 startTime: 2022-10-11T14:27:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
