@@ -24,17 +24,17 @@
     "url": "ql.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qinglong",
-    "status": "up",
+    "status": "down",
     "uptime": "96.33%",
-    "uptimeDay": "59.73%",
-    "uptimeWeek": "78.25%",
+    "uptimeDay": "60.38%",
+    "uptimeWeek": "78.24%",
     "uptimeMonth": "92.46%",
     "uptimeYear": "93.20%",
     "time": 899,
-    "timeDay": 4648,
-    "timeWeek": 3099,
-    "timeMonth": 2390,
-    "timeYear": 965,
+    "timeDay": 4487,
+    "timeWeek": 3074,
+    "timeMonth": 2377,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2024-08-18": 110,
       "2024-08-17": 515,
@@ -95,8 +95,7 @@
       "2024-03-07": 115,
       "2024-03-06": 175,
       "2024-03-05": 97,
-      "2024-03-02": 237,
-      "2024-03-01": 21
+      "2024-03-02": 237
     }
   },
   {
@@ -140,8 +139,8 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.82%",
-    "uptimeMonth": "87.99%",
+    "uptimeWeek": "48.03%",
+    "uptimeMonth": "88.04%",
     "uptimeYear": "99.00%",
     "time": 894,
     "timeDay": 586,
@@ -151,7 +150,7 @@
     "dailyMinutesDown": {
       "2024-08-18": 699,
       "2024-08-17": 2779,
-      "2024-08-16": 1782
+      "2024-08-16": 1761
     }
   },
   {
@@ -171,7 +170,7 @@
     "timeMonth": 440,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-08-18": 348,
+      "2024-08-18": 358,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
@@ -231,7 +230,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "91.42%",
-    "uptimeDay": "56.28%",
+    "uptimeDay": "56.95%",
     "uptimeWeek": "77.15%",
     "uptimeMonth": "92.11%",
     "uptimeYear": "91.42%",
@@ -311,7 +310,7 @@
     "slug": "alist",
     "status": "up",
     "uptime": "91.39%",
-    "uptimeDay": "56.23%",
+    "uptimeDay": "56.90%",
     "uptimeWeek": "76.39%",
     "uptimeMonth": "91.80%",
     "uptimeYear": "91.39%",
@@ -393,7 +392,7 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "91.39%",
-    "uptimeDay": "51.67%",
+    "uptimeDay": "52.34%",
     "uptimeWeek": "75.71%",
     "uptimeMonth": "91.62%",
     "uptimeYear": "91.39%",
@@ -484,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-08-18": 349,
+      "2024-08-18": 358,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
@@ -785,7 +784,7 @@
     "slug": "my-nas",
     "status": "up",
     "uptime": "91.22%",
-    "uptimeDay": "50.31%",
+    "uptimeDay": "50.98%",
     "uptimeWeek": "75.07%",
     "uptimeMonth": "91.49%",
     "uptimeYear": "91.22%",
