@@ -24,17 +24,17 @@
     "url": "ql.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qinglong",
-    "status": "up",
-    "uptime": "96.40%",
-    "uptimeDay": "67.27%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "67.46%",
     "uptimeWeek": "75.30%",
     "uptimeMonth": "91.06%",
-    "uptimeYear": "93.31%",
+    "uptimeYear": "93.34%",
     "time": 1145,
-    "timeDay": 4610,
-    "timeWeek": 3912,
-    "timeMonth": 3138,
-    "timeYear": 1233,
+    "timeDay": 4598,
+    "timeWeek": 3888,
+    "timeMonth": 3124,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2024-08-19": 242,
       "2024-08-18": 559,
@@ -86,7 +86,7 @@
       "2024-03-22": 32,
       "2024-03-20": 148,
       "2024-03-19": 98,
-      "2024-03-18": 148
+      "2024-03-18": 29
     }
   },
   {
@@ -130,8 +130,8 @@
     "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.51%",
-    "uptimeMonth": "90.91%",
+    "uptimeWeek": "60.61%",
+    "uptimeMonth": "90.94%",
     "uptimeYear": "99.24%",
     "time": 893,
     "timeDay": 519,
@@ -139,8 +139,8 @@
     "timeMonth": 538,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-08-19": 1335,
-      "2024-08-18": 2650
+      "2024-08-19": 1362,
+      "2024-08-18": 2612
     }
   },
   {
@@ -160,7 +160,7 @@
     "timeMonth": 440,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2024-08-19": 828,
+      "2024-08-19": 837,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -219,17 +219,17 @@
     "url": "https://nextcloud.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.hiripple.com.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "91.62%",
-    "uptimeDay": "64.27%",
+    "status": "down",
+    "uptime": "91.63%",
+    "uptimeDay": "64.88%",
     "uptimeWeek": "74.25%",
     "uptimeMonth": "90.71%",
-    "uptimeYear": "91.62%",
-    "time": 1991,
-    "timeDay": 6518,
-    "timeWeek": 5251,
-    "timeMonth": 4438,
-    "timeYear": 1991,
+    "uptimeYear": "91.63%",
+    "time": 1989,
+    "timeDay": 6369,
+    "timeWeek": 5218,
+    "timeMonth": 4417,
+    "timeYear": 1989,
     "dailyMinutesDown": {
       "2024-08-19": 300,
       "2024-08-18": 498,
@@ -282,8 +282,7 @@
       "2024-03-20": 148,
       "2024-03-19": 98,
       "2024-03-18": 148,
-      "2024-03-17": 16,
-      "2024-03-15": 56
+      "2024-03-17": 16
     }
   },
   {
@@ -294,8 +293,8 @@
     "status": "down",
     "uptime": "91.57%",
     "uptimeDay": "65.60%",
-    "uptimeWeek": "74.08%",
-    "uptimeMonth": "90.47%",
+    "uptimeWeek": "73.99%",
+    "uptimeMonth": "90.45%",
     "uptimeYear": "91.57%",
     "time": 1047,
     "timeDay": 3143,
@@ -303,7 +302,7 @@
     "timeMonth": 2557,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-08-19": 257,
+      "2024-08-19": 267,
       "2024-08-18": 512,
       "2024-08-17": 575,
       "2024-08-16": 488,
@@ -368,8 +367,8 @@
     "status": "down",
     "uptime": "91.57%",
     "uptimeDay": "65.77%",
-    "uptimeWeek": "73.63%",
-    "uptimeMonth": "90.30%",
+    "uptimeWeek": "73.54%",
+    "uptimeMonth": "90.28%",
     "uptimeYear": "91.57%",
     "time": 942,
     "timeDay": 1744,
@@ -377,7 +376,7 @@
     "timeMonth": 2211,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2024-08-19": 256,
+      "2024-08-19": 266,
       "2024-08-18": 576,
       "2024-08-17": 556,
       "2024-08-16": 488,
@@ -450,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-08-19": 828,
+      "2024-08-19": 837,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -753,8 +752,8 @@
     "status": "down",
     "uptime": "91.40%",
     "uptimeDay": "64.02%",
-    "uptimeWeek": "71.90%",
-    "uptimeMonth": "89.96%",
+    "uptimeWeek": "71.81%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "91.40%",
     "time": 1907,
     "timeDay": 5888,
@@ -762,7 +761,7 @@
     "timeMonth": 4255,
     "timeYear": 1907,
     "dailyMinutesDown": {
-      "2024-08-19": 281,
+      "2024-08-19": 290,
       "2024-08-18": 660,
       "2024-08-17": 558,
       "2024-08-16": 555,
