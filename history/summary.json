@@ -26,12 +26,12 @@
     "slug": "qinglong",
     "status": "up",
     "uptime": "96.42%",
-    "uptimeDay": "76.54%",
+    "uptimeDay": "78.01%",
     "uptimeWeek": "74.11%",
     "uptimeMonth": "90.28%",
     "uptimeYear": "93.34%",
     "time": 1179,
-    "timeDay": 3100,
+    "timeDay": 3189,
     "timeWeek": 3864,
     "timeMonth": 3131,
     "timeYear": 1291,
@@ -126,9 +126,9 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.07%",
-    "uptimeMonth": "90.12%",
-    "uptimeYear": "99.18%",
+    "uptimeWeek": "57.74%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "99.19%",
     "time": 893,
     "timeDay": 481,
     "timeWeek": 505,
@@ -137,7 +137,7 @@
     "dailyMinutesDown": {
       "2024-08-20": 788,
       "2024-08-19": 2336,
-      "2024-08-18": 1207
+      "2024-08-18": 1139
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 439,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2024-08-20": 838,
+      "2024-08-20": 860,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -219,7 +219,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "91.67%",
-    "uptimeDay": "76.02%",
+    "uptimeDay": "77.52%",
     "uptimeWeek": "72.98%",
     "uptimeMonth": "89.92%",
     "uptimeYear": "91.67%",
@@ -288,7 +288,7 @@
     "slug": "alist",
     "status": "up",
     "uptime": "91.60%",
-    "uptimeDay": "74.45%",
+    "uptimeDay": "75.94%",
     "uptimeWeek": "72.51%",
     "uptimeMonth": "89.61%",
     "uptimeYear": "91.60%",
@@ -359,7 +359,7 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "91.61%",
-    "uptimeDay": "76.72%",
+    "uptimeDay": "78.22%",
     "uptimeWeek": "72.38%",
     "uptimeMonth": "89.51%",
     "uptimeYear": "91.61%",
@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-08-20": 838,
+      "2024-08-20": 860,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -740,17 +740,17 @@
     "url": "https://unraid.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
-    "status": "up",
-    "uptime": "91.41%",
-    "uptimeDay": "74.46%",
-    "uptimeWeek": "70.33%",
+    "status": "down",
+    "uptime": "91.43%",
+    "uptimeDay": "75.92%",
+    "uptimeWeek": "70.32%",
     "uptimeMonth": "89.10%",
-    "uptimeYear": "91.41%",
-    "time": 1956,
-    "timeDay": 3680,
-    "timeWeek": 5224,
-    "timeMonth": 4208,
-    "timeYear": 1956,
+    "uptimeYear": "91.43%",
+    "time": 1983,
+    "timeDay": 4547,
+    "timeWeek": 5338,
+    "timeMonth": 4297,
+    "timeYear": 1983,
     "dailyMinutesDown": {
       "2024-08-20": 166,
       "2024-08-19": 493,
@@ -806,7 +806,7 @@
       "2024-03-19": 98,
       "2024-03-18": 159,
       "2024-03-17": 16,
-      "2024-03-15": 133
+      "2024-03-15": 57
     }
   }
 ]
