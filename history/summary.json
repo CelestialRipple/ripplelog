@@ -24,17 +24,17 @@
     "url": "ql.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qinglong",
-    "status": "up",
-    "uptime": "96.47%",
-    "uptimeDay": "67.44%",
-    "uptimeWeek": "71.64%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "67.42%",
+    "uptimeWeek": "71.63%",
     "uptimeMonth": "89.08%",
-    "uptimeYear": "93.42%",
-    "time": 1290,
-    "timeDay": 6325,
-    "timeWeek": 4305,
-    "timeMonth": 3361,
-    "timeYear": 1411,
+    "uptimeYear": "93.44%",
+    "time": 1289,
+    "timeDay": 5934,
+    "timeWeek": 4283,
+    "timeMonth": 3349,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2024-08-21": 468,
       "2024-08-20": 212,
@@ -79,8 +79,7 @@
       "2024-05-12": 532,
       "2024-05-11": 361,
       "2024-04-18": 17,
-      "2024-04-12": 18,
-      "2024-04-06": 108
+      "2024-04-12": 18
     }
   },
   {
@@ -122,10 +121,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.04%",
-    "uptimeMonth": "86.66%",
+    "uptimeWeek": "42.36%",
+    "uptimeMonth": "86.74%",
     "uptimeYear": "98.89%",
     "time": 893,
     "timeDay": 547,
@@ -135,7 +134,7 @@
     "dailyMinutesDown": {
       "2024-08-21": 2646,
       "2024-08-20": 1268,
-      "2024-08-19": 1931
+      "2024-08-19": 1898
     }
   },
   {
@@ -155,7 +154,7 @@
     "timeMonth": 438,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-08-21": 1125,
+      "2024-08-21": 1153,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -431,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-08-21": 1125,
+      "2024-08-21": 1153,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
