@@ -1,7 +1,7 @@
 url: https://ha.hiripple.com
-status: up
-code: 200
-responseTime: 445
-lastUpdated: 2024-09-01T23:15:10.327Z
+status: down
+code: 400
+responseTime: 501
+lastUpdated: 2024-09-02T04:27:47.660Z
 startTime: 2023-10-31T11:36:11.335Z
 generator: Upptime <https://github.com/upptime/upptime>
