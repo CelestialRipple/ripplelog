@@ -1,7 +1,7 @@
 url: https://nextcloud.hiripple.com
-status: up
-code: 200
-responseTime: 3157
-lastUpdated: 2024-09-14T17:39:17.403Z
+status: down
+code: 530
+responseTime: 100
+lastUpdated: 2024-09-14T17:59:59.928Z
 startTime: 2023-10-31T11:36:08.484Z
 generator: Upptime <https://github.com/upptime/upptime>
