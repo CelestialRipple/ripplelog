@@ -28,7 +28,7 @@
     "uptime": "99.49%",
     "uptimeDay": "41.50%",
     "uptimeWeek": "81.52%",
-    "uptimeMonth": "87.98%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "99.00%",
     "time": 1601,
     "timeDay": 1272,
@@ -36,7 +36,7 @@
     "timeMonth": 1698,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2024-10-04": 355,
+      "2024-10-04": 366,
       "2024-10-03": 612,
       "2024-09-29": 51,
       "2024-09-28": 456,
@@ -90,22 +90,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "35.26%",
-    "uptimeMonth": "85.10%",
-    "uptimeYear": "98.76%",
+    "uptimeWeek": "36.27%",
+    "uptimeMonth": "85.33%",
+    "uptimeYear": "98.78%",
     "time": 871,
     "timeDay": 515,
     "timeWeek": 543,
     "timeMonth": 531,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2024-10-04": 1466,
+      "2024-10-04": 1477,
       "2024-10-03": 2549,
       "2024-09-29": 254,
       "2024-09-28": 2020,
-      "2024-09-27": 236
+      "2024-09-27": 122
     }
   },
   {
@@ -125,7 +125,7 @@
     "timeMonth": 394,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2024-10-04": 442,
+      "2024-10-04": 454,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -230,17 +230,17 @@
     "url": "https://nextcloud.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.hiripple.com.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "40.48%",
-    "uptimeWeek": "80.46%",
-    "uptimeMonth": "87.26%",
+    "uptimeDay": "41.23%",
+    "uptimeWeek": "80.57%",
+    "uptimeMonth": "87.35%",
     "uptimeYear": "98.86%",
-    "time": 2617,
-    "timeDay": 4202,
-    "timeWeek": 3129,
-    "timeMonth": 2771,
-    "timeYear": 2617,
+    "time": 2616,
+    "timeDay": 4060,
+    "timeWeek": 3095,
+    "timeMonth": 2767,
+    "timeYear": 2616,
     "dailyMinutesDown": {
       "2024-10-04": 370,
       "2024-10-03": 630,
@@ -254,7 +254,7 @@
       "2024-09-22": 592,
       "2024-09-21": 654,
       "2024-09-20": 650,
-      "2024-09-19": 407
+      "2024-09-19": 369
     }
   },
   {
@@ -262,16 +262,16 @@
     "url": "https://alist.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/alist.hiripple.com.ico",
     "slug": "alist",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "38.94%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "86.99%",
-    "uptimeYear": "98.83%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "39.69%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "87.07%",
+    "uptimeYear": "98.84%",
     "time": 1207,
-    "timeDay": 1578,
-    "timeWeek": 1631,
-    "timeMonth": 1267,
+    "timeDay": 1526,
+    "timeWeek": 1613,
+    "timeMonth": 1265,
     "timeYear": 1207,
     "dailyMinutesDown": {
       "2024-10-04": 370,
@@ -286,7 +286,7 @@
       "2024-09-22": 592,
       "2024-09-21": 664,
       "2024-09-20": 650,
-      "2024-09-19": 417
+      "2024-09-19": 379
     }
   },
   {
@@ -306,7 +306,7 @@
     "timeMonth": 914,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2024-10-04": 443,
+      "2024-10-04": 454,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -371,7 +371,7 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-10-04": 443,
+      "2024-10-04": 454,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -717,19 +717,19 @@
     "url": "https://unraid.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "38.80%",
-    "uptimeWeek": "79.39%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "98.74%",
-    "time": 2704,
-    "timeDay": 3385,
-    "timeWeek": 3186,
-    "timeMonth": 3189,
-    "timeYear": 2704,
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "39.54%",
+    "uptimeWeek": "79.49%",
+    "uptimeMonth": "86.23%",
+    "uptimeYear": "98.76%",
+    "time": 2702,
+    "timeDay": 3270,
+    "timeWeek": 3148,
+    "timeMonth": 3187,
+    "timeYear": 2702,
     "dailyMinutesDown": {
-      "2024-10-04": 371,
+      "2024-10-04": 372,
       "2024-10-03": 656,
       "2024-09-29": 81,
       "2024-09-28": 536,
@@ -741,8 +741,7 @@
       "2024-09-22": 636,
       "2024-09-21": 705,
       "2024-09-20": 651,
-      "2024-09-19": 533,
-      "2024-09-18": 86
+      "2024-09-19": 494
     }
   }
 ]
