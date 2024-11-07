@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.61%",
+    "uptimeWeek": "95.11%",
     "uptimeMonth": "92.13%",
     "uptimeYear": "99.34%",
     "time": 957,
@@ -30,9 +30,9 @@
     "slug": "qinglong",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "63.61%",
-    "uptimeWeek": "63.56%",
-    "uptimeMonth": "80.70%",
+    "uptimeDay": "64.35%",
+    "uptimeWeek": "64.17%",
+    "uptimeMonth": "80.65%",
     "uptimeYear": "98.39%",
     "time": 1591,
     "timeDay": 1494,
@@ -40,7 +40,7 @@
     "timeMonth": 1444,
     "timeYear": 1645,
     "dailyMinutesDown": {
-      "2024-11-06": 525,
+      "2024-11-06": 514,
       "2024-11-05": 415,
       "2024-11-04": 420,
       "2024-11-03": 490,
@@ -54,7 +54,8 @@
       "2024-10-23": 283,
       "2024-10-22": 271,
       "2024-10-21": 602,
-      "2024-10-20": 356
+      "2024-10-20": 356,
+      "2024-10-19": 32
     }
   },
   {
@@ -65,7 +66,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.61%",
+    "uptimeWeek": "95.12%",
     "uptimeMonth": "92.13%",
     "uptimeYear": "99.34%",
     "time": 733,
@@ -86,20 +87,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.10%",
-    "uptimeMonth": "88.75%",
-    "uptimeYear": "99.06%",
+    "uptimeWeek": "49.67%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "99.03%",
     "time": 862,
     "timeDay": 502,
     "timeWeek": 537,
     "timeMonth": 548,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2024-11-06": 2256,
+      "2024-11-06": 2212,
       "2024-11-05": 1636,
-      "2024-11-04": 1044
+      "2024-11-04": 1231
     }
   },
   {
@@ -112,14 +113,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.21%",
+    "uptimeYear": "69.20%",
     "time": 578,
     "timeDay": 460,
     "timeWeek": 420,
     "timeMonth": 420,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-11-06": 1434,
+      "2024-11-07": 45,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -242,7 +244,7 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.61%",
+    "uptimeWeek": "95.12%",
     "uptimeMonth": "92.13%",
     "uptimeYear": "99.34%",
     "time": 623,
@@ -264,9 +266,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "60.65%",
-    "uptimeWeek": "62.49%",
-    "uptimeMonth": "80.02%",
+    "uptimeDay": "61.40%",
+    "uptimeWeek": "63.10%",
+    "uptimeMonth": "79.99%",
     "uptimeYear": "98.33%",
     "time": 2550,
     "timeDay": 2475,
@@ -274,7 +276,7 @@
     "timeMonth": 2309,
     "timeYear": 2560,
     "dailyMinutesDown": {
-      "2024-11-06": 567,
+      "2024-11-06": 556,
       "2024-11-05": 389,
       "2024-11-04": 450,
       "2024-11-03": 462,
@@ -289,7 +291,7 @@
       "2024-10-22": 271,
       "2024-10-21": 613,
       "2024-10-20": 358,
-      "2024-10-19": 157
+      "2024-10-19": 181
     }
   },
   {
@@ -299,17 +301,17 @@
     "slug": "alist",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "60.61%",
-    "uptimeWeek": "62.14%",
-    "uptimeMonth": "79.90%",
-    "uptimeYear": "98.33%",
+    "uptimeDay": "61.37%",
+    "uptimeWeek": "62.75%",
+    "uptimeMonth": "79.86%",
+    "uptimeYear": "98.32%",
     "time": 1229,
     "timeDay": 1896,
     "timeWeek": 1296,
     "timeMonth": 1272,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-11-06": 568,
+      "2024-11-06": 557,
       "2024-11-05": 391,
       "2024-11-04": 450,
       "2024-11-03": 462,
@@ -324,7 +326,7 @@
       "2024-10-22": 271,
       "2024-10-21": 614,
       "2024-10-20": 358,
-      "2024-10-19": 181
+      "2024-10-19": 210
     }
   },
   {
@@ -333,18 +335,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.hiripple.com.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "80.91%",
+    "uptime": "80.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.51%",
+    "uptimeYear": "80.50%",
     "time": 1234,
     "timeDay": 3678,
     "timeWeek": 1906,
     "timeMonth": 1260,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2024-11-06": 1435,
+      "2024-11-07": 46,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -442,7 +445,8 @@
     "timeMonth": 0,
     "timeYear": 2809,
     "dailyMinutesDown": {
-      "2024-11-06": 1435,
+      "2024-11-07": 46,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -805,8 +809,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   },
   {
@@ -815,10 +818,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
     "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "58.69%",
-    "uptimeWeek": "60.96%",
-    "uptimeMonth": "79.38%",
+    "uptime": "98.31%",
+    "uptimeDay": "59.45%",
+    "uptimeWeek": "61.57%",
+    "uptimeMonth": "79.36%",
     "uptimeYear": "98.28%",
     "time": 2741,
     "timeDay": 3117,
@@ -826,7 +829,7 @@
     "timeMonth": 2794,
     "timeYear": 2753,
     "dailyMinutesDown": {
-      "2024-11-06": 596,
+      "2024-11-06": 585,
       "2024-11-05": 441,
       "2024-11-04": 452,
       "2024-11-03": 464,
@@ -841,7 +844,7 @@
       "2024-10-22": 272,
       "2024-10-21": 626,
       "2024-10-20": 361,
-      "2024-10-19": 273
+      "2024-10-19": 293
     }
   }
 ]
