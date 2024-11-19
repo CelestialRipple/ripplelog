@@ -1,7 +1,7 @@
 url: https://alist.hiripple.com
-status: up
-code: 200
-responseTime: 4856
-lastUpdated: 2024-11-19T14:25:11.126Z
+status: down
+code: 502
+responseTime: 156
+lastUpdated: 2024-11-19T16:23:55.055Z
 startTime: 2023-10-31T11:36:10.427Z
 generator: Upptime <https://github.com/upptime/upptime>
