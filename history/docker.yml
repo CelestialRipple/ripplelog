@@ -1,7 +1,7 @@
 url: https://docker.hiripple.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-09T23:22:18.349Z
+status: up
+code: 200
+responseTime: 1071
+lastUpdated: 2025-06-10T03:37:01.114Z
 startTime: 2022-10-13T15:11:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
