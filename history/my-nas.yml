@@ -1,7 +1,7 @@
 url: https://unraid.hiripple.com
-status: down
-code: 502
-responseTime: 119
-lastUpdated: 2025-06-17T15:30:10.915Z
+status: up
+code: 200
+responseTime: 1253
+lastUpdated: 2025-06-17T15:46:39.072Z
 startTime: 2023-10-31T11:36:12.249Z
 generator: Upptime <https://github.com/upptime/upptime>
