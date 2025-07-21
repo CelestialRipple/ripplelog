@@ -30,16 +30,16 @@
     "url": "ql.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qinglong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.67%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 1516,
-    "timeDay": 346,
-    "timeWeek": 427,
-    "timeMonth": 481,
+    "timeDay": 281,
+    "timeWeek": 393,
+    "timeMonth": 474,
     "timeYear": 1571,
     "dailyMinutesDown": {
       "2025-07-21": 15,
@@ -94,8 +94,7 @@
       "2025-01-12": 27,
       "2025-01-11": 260,
       "2025-01-10": 21,
-      "2025-01-09": 24,
-      "2025-01-05": 25
+      "2025-01-09": 24
     }
   },
   {
@@ -133,14 +132,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.29%",
+    "uptimeYear": "88.30%",
     "time": 635,
     "timeDay": 625,
     "timeWeek": 619,
     "timeMonth": 553,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-07-21": 2397,
+      "2025-07-21": 2439,
       "2025-07-20": 2898,
       "2025-07-17": 2938,
       "2025-07-16": 2946,
@@ -167,7 +166,7 @@
       "2025-06-20": 960,
       "2025-06-19": 228,
       "2025-06-18": 400,
-      "2025-06-17": 98
+      "2025-06-17": 16
     }
   },
   {
@@ -179,7 +178,7 @@
     "uptime": "65.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.00%",
+    "uptimeMonth": "38.96%",
     "uptimeYear": "6.33%",
     "time": 520,
     "timeDay": 560,
@@ -187,7 +186,7 @@
     "timeMonth": 748,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-07-21": 1176,
+      "2025-07-21": 1197,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -574,15 +573,15 @@
     "uptime": "96.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.95%",
-    "uptimeYear": "93.88%",
+    "uptimeMonth": "34.90%",
+    "uptimeYear": "93.87%",
     "time": 2359,
     "timeDay": 445,
     "timeWeek": 469,
     "timeMonth": 626,
     "timeYear": 2442,
     "dailyMinutesDown": {
-      "2025-07-21": 1176,
+      "2025-07-21": 1197,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -661,19 +660,19 @@
     "url": "https://alist.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/alist.hiripple.com.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.19%",
     "time": 1166,
-    "timeDay": 407,
-    "timeWeek": 458,
-    "timeMonth": 385,
-    "timeYear": 1198,
+    "timeDay": 332,
+    "timeWeek": 423,
+    "timeMonth": 380,
+    "timeYear": 1197,
     "dailyMinutesDown": {
-      "2025-07-21": 15,
+      "2025-07-21": 16,
       "2025-07-02": 378,
       "2025-06-27": 86,
       "2025-06-26": 115,
@@ -724,8 +723,7 @@
       "2025-01-15": 21,
       "2025-01-12": 27,
       "2025-01-11": 281,
-      "2025-01-10": 21,
-      "2025-01-09": 24
+      "2025-01-10": 21
     }
   },
   {
@@ -745,7 +743,7 @@
     "timeMonth": 397,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2025-07-21": 1176,
+      "2025-07-21": 1197,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -1100,7 +1098,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 1176,
+      "2025-07-21": 1197,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -1472,19 +1470,19 @@
     "url": "https://unraid.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.19%",
     "time": 2600,
-    "timeDay": 853,
-    "timeWeek": 1204,
-    "timeMonth": 922,
-    "timeYear": 2709,
+    "timeDay": 656,
+    "timeWeek": 1090,
+    "timeMonth": 907,
+    "timeYear": 2708,
     "dailyMinutesDown": {
-      "2025-07-21": 15,
+      "2025-07-21": 16,
       "2025-07-02": 378,
       "2025-06-27": 86,
       "2025-06-26": 115,
@@ -1534,8 +1532,7 @@
       "2025-01-15": 21,
       "2025-01-12": 27,
       "2025-01-11": 281,
-      "2025-01-10": 21,
-      "2025-01-09": 24
+      "2025-01-10": 21
     }
   }
 ]
