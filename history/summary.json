@@ -34,7 +34,7 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.09%",
     "time": 1517,
     "timeDay": 477,
@@ -138,7 +138,7 @@
     "timeMonth": 568,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-08-02": 1743,
+      "2025-08-02": 1783,
       "2025-07-31": 2925,
       "2025-07-30": 3052,
       "2025-07-29": 2896,
@@ -174,7 +174,7 @@
       "2025-06-27": 344,
       "2025-06-26": 460,
       "2025-06-22": 68,
-      "2025-06-20": 888
+      "2025-06-20": 864
     }
   },
   {
@@ -186,7 +186,7 @@
     "uptime": "65.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.39%",
+    "uptimeMonth": "0.35%",
     "uptimeYear": "6.33%",
     "time": 521,
     "timeDay": 559,
@@ -194,7 +194,7 @@
     "timeMonth": 597,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-08-02": 810,
+      "2025-08-02": 830,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -544,10 +544,10 @@
     "url": "https://pass.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.hiripple.com.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "96.49%",
+    "uptimeDay": "91.43%",
+    "uptimeWeek": "96.48%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "98.93%",
     "time": 604,
@@ -594,7 +594,7 @@
     "timeMonth": 531,
     "timeYear": 2441,
     "dailyMinutesDown": {
-      "2025-08-02": 810,
+      "2025-08-02": 831,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -768,7 +768,7 @@
     "timeMonth": 312,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2025-08-02": 811,
+      "2025-08-02": 831,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1135,7 +1135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 811,
+      "2025-08-02": 831,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
