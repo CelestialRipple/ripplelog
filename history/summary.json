@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 766,
-    "timeDay": 945,
-    "timeWeek": 776,
+    "timeDay": 796,
+    "timeWeek": 827,
     "timeMonth": 732,
     "timeYear": 696,
     "dailyMinutesDown": {
@@ -48,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.44%",
     "time": 450,
-    "timeDay": 483,
-    "timeWeek": 402,
-    "timeMonth": 420,
+    "timeDay": 268,
+    "timeWeek": 370,
+    "timeMonth": 418,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2026-01-27": 53,
@@ -106,8 +106,7 @@
       "2025-04-09": 63,
       "2025-04-07": 22,
       "2025-04-06": 74,
-      "2025-04-04": 34,
-      "2025-04-03": 48
+      "2025-04-04": 34
     }
   },
   {
@@ -116,18 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nginx-proxy",
     "status": "down",
-    "uptime": "79.89%",
+    "uptime": "79.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.34%",
+    "uptimeYear": "34.07%",
     "time": 265,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 240,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-04-02": 80,
+      "2026-04-03": 82,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -382,11 +382,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "96.34%",
-    "time": 3272,
-    "timeDay": 19551,
-    "timeWeek": 19533,
-    "timeMonth": 19596,
-    "timeYear": 5350,
+    "time": 3333,
+    "timeDay": 19737,
+    "timeWeek": 19557,
+    "timeMonth": 19600,
+    "timeYear": 5460,
     "dailyMinutesDown": {
       "2026-03-17": 231,
       "2026-02-26": 171,
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.hiripple.com.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "52.57%",
+    "uptime": "52.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.33%",
-    "time": 3229,
+    "time": 3291,
     "timeDay": 19455,
-    "timeWeek": 19611,
-    "timeMonth": 19626,
-    "timeYear": 5365,
+    "timeWeek": 19578,
+    "timeMonth": 19630,
+    "timeYear": 5473,
     "dailyMinutesDown": {
-      "2026-04-02": 80,
+      "2026-04-03": 82,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -777,8 +778,7 @@
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
-      "2025-04-04": 1440,
-      "2025-04-03": 1440
+      "2025-04-04": 1440
     }
   },
   {
@@ -793,8 +793,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.29%",
     "time": 656,
-    "timeDay": 520,
-    "timeWeek": 417,
+    "timeDay": 299,
+    "timeWeek": 400,
     "timeMonth": 437,
     "timeYear": 665,
     "dailyMinutesDown": {
@@ -847,18 +847,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.hiripple.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "68.70%",
+    "uptime": "68.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.52%",
+    "uptimeYear": "24.24%",
     "time": 644,
-    "timeDay": 487,
-    "timeWeek": 414,
+    "timeDay": 280,
+    "timeWeek": 379,
     "timeMonth": 411,
-    "timeYear": 607,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-04-02": 80,
+      "2026-04-03": 82,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1162,8 +1163,7 @@
       "2025-04-09": 63,
       "2025-04-07": 22,
       "2025-04-06": 85,
-      "2025-04-04": 34,
-      "2025-04-03": 48
+      "2025-04-04": 34
     }
   },
   {
@@ -1178,10 +1178,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.46%",
     "time": 474,
-    "timeDay": 544,
-    "timeWeek": 432,
-    "timeMonth": 447,
-    "timeYear": 515,
+    "timeDay": 318,
+    "timeWeek": 414,
+    "timeMonth": 448,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2026-03-17": 77,
       "2026-01-27": 90,
@@ -1239,8 +1239,7 @@
       "2025-04-09": 63,
       "2025-04-07": 22,
       "2025-04-06": 85,
-      "2025-04-04": 34,
-      "2025-04-03": 48
+      "2025-04-04": 34
     }
   },
   {
@@ -1249,18 +1248,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.hiripple.com.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "34.11%",
+    "uptime": "34.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 447,
+    "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 416,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2026-04-02": 80,
+      "2026-04-03": 82,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1623,8 +1623,7 @@
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
-      "2025-04-04": 1440,
-      "2025-04-03": 1440
+      "2025-04-04": 1440
     }
   },
   {
@@ -1644,7 +1643,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-02": 80,
+      "2026-04-03": 82,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -2007,8 +2007,7 @@
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
-      "2025-04-04": 1440,
-      "2025-04-03": 1440
+      "2025-04-04": 1440
     }
   },
   {
@@ -2022,11 +2021,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.44%",
-    "time": 1084,
-    "timeDay": 1236,
-    "timeWeek": 1201,
-    "timeMonth": 1706,
-    "timeYear": 1166,
+    "time": 1083,
+    "timeDay": 723,
+    "timeWeek": 1152,
+    "timeMonth": 1705,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2026-03-17": 77,
       "2026-01-27": 91,
@@ -2085,8 +2084,7 @@
       "2025-04-09": 63,
       "2025-04-07": 22,
       "2025-04-06": 85,
-      "2025-04-04": 34,
-      "2025-04-03": 49
+      "2025-04-04": 34
     }
   }
 ]
