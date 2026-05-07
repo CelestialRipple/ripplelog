@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 749,
-    "timeDay": 180,
-    "timeWeek": 676,
-    "timeMonth": 662,
-    "timeYear": 686,
+    "time": 748,
+    "timeDay": 237,
+    "timeWeek": 536,
+    "timeMonth": 643,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2026-02-26": 171,
       "2026-02-25": 79,
@@ -46,12 +46,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.58%",
     "time": 464,
-    "timeDay": 275,
-    "timeWeek": 416,
-    "timeMonth": 634,
-    "timeYear": 503,
+    "timeDay": 561,
+    "timeWeek": 438,
+    "timeMonth": 643,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2026-04-27": 98,
       "2026-01-27": 53,
@@ -96,8 +96,7 @@
       "2025-05-18": 24,
       "2025-05-16": 174,
       "2025-05-14": 70,
-      "2025-05-13": 35,
-      "2025-05-07": 23
+      "2025-05-13": 35
     }
   },
   {
@@ -106,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nginx-proxy",
     "status": "down",
-    "uptime": "77.80%",
+    "uptime": "77.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.02%",
+    "uptimeYear": "24.74%",
     "time": 259,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 226,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-05-06": 115,
+      "2026-05-07": 119,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -406,11 +406,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "96.31%",
-    "time": 5396,
-    "timeDay": 19329,
-    "timeWeek": 19562,
-    "timeMonth": 19616,
-    "timeYear": 9096,
+    "time": 5459,
+    "timeDay": 19737,
+    "timeWeek": 19552,
+    "timeMonth": 19624,
+    "timeYear": 9206,
     "dailyMinutesDown": {
       "2026-04-27": 392,
       "2026-04-20": 57,
@@ -446,18 +446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.hiripple.com.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "51.20%",
+    "uptime": "51.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "6.33%",
-    "time": 5353,
-    "timeDay": 19641,
-    "timeWeek": 19513,
+    "time": 5416,
+    "timeDay": 19747,
+    "timeWeek": 19551,
     "timeMonth": 19594,
-    "timeYear": 9087,
+    "timeYear": 9197,
     "dailyMinutesDown": {
-      "2026-05-06": 115,
+      "2026-05-07": 119,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -798,8 +799,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -814,9 +814,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.27%",
     "time": 653,
-    "timeDay": 923,
-    "timeWeek": 544,
-    "timeMonth": 529,
+    "timeDay": 299,
+    "timeWeek": 525,
+    "timeMonth": 531,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2026-04-27": 98,
@@ -869,18 +869,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.hiripple.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "66.15%",
+    "uptime": "66.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.34%",
+    "uptimeYear": "15.08%",
     "time": 606,
-    "timeDay": 279,
-    "timeWeek": 411,
-    "timeMonth": 403,
-    "timeYear": 569,
+    "timeDay": 212,
+    "timeWeek": 384,
+    "timeMonth": 400,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2026-05-06": 115,
+      "2026-05-07": 119,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1207,8 +1208,7 @@
       "2025-05-18": 24,
       "2025-05-16": 174,
       "2025-05-14": 70,
-      "2025-05-13": 35,
-      "2025-05-07": 23
+      "2025-05-13": 35
     }
   },
   {
@@ -1221,11 +1221,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.60%",
     "time": 499,
-    "timeDay": 338,
-    "timeWeek": 563,
-    "timeMonth": 508,
+    "timeDay": 411,
+    "timeWeek": 555,
+    "timeMonth": 511,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2026-04-27": 98,
@@ -1274,8 +1274,7 @@
       "2025-05-18": 24,
       "2025-05-16": 174,
       "2025-05-14": 70,
-      "2025-05-13": 35,
-      "2025-05-07": 23
+      "2025-05-13": 35
     }
   },
   {
@@ -1284,7 +1283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.hiripple.com.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "32.85%",
+    "uptime": "32.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1293,9 +1292,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 419,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2026-05-06": 115,
+      "2026-05-07": 119,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1658,8 +1658,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -1679,7 +1678,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 115,
+      "2026-05-07": 119,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -2042,8 +2042,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -2056,12 +2055,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "98.57%",
     "time": 1147,
-    "timeDay": 1204,
-    "timeWeek": 1370,
-    "timeMonth": 1352,
-    "timeYear": 1230,
+    "timeDay": 1650,
+    "timeWeek": 1441,
+    "timeMonth": 1379,
+    "timeYear": 1233,
     "dailyMinutesDown": {
       "2026-04-27": 98,
       "2026-04-20": 57,
@@ -2111,8 +2110,7 @@
       "2025-05-18": 24,
       "2025-05-16": 174,
       "2025-05-14": 70,
-      "2025-05-13": 35,
-      "2025-05-07": 23
+      "2025-05-13": 35
     }
   }
 ]
