@@ -40,10 +40,10 @@
     "slug": "qinglong",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "98.43%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "98.42%",
     "time": 521,
     "timeDay": 162,
     "timeWeek": 370,
@@ -78,7 +78,7 @@
       "2026-08-13": 54,
       "2026-08-14": 120,
       "2026-08-17": 33,
-      "2026-08-19": 4
+      "2026-08-19": 42
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 822,
+      "2026-08-19": 861,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 19645,
     "timeYear": 19634,
     "dailyMinutesDown": {
-      "2026-08-19": 822,
+      "2026-08-19": 861,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -585,7 +585,7 @@
     "timeMonth": 19602,
     "timeYear": 19615,
     "dailyMinutesDown": {
-      "2026-08-19": 822,
+      "2026-08-19": 861,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -957,17 +957,17 @@
     "url": "https://pass.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.hiripple.com.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "97.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "17.81%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "18.17%",
     "uptimeMonth": "10.80%",
     "uptimeYear": "91.21%",
-    "time": 626,
-    "timeDay": 325,
-    "timeWeek": 456,
-    "timeMonth": 388,
-    "timeYear": 589,
+    "time": 625,
+    "timeDay": 197,
+    "timeWeek": 420,
+    "timeMonth": 379,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 27,
@@ -1020,7 +1020,8 @@
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
-      "2026-07-22": 1165
+      "2026-07-22": 1165,
+      "2026-08-19": 2
     }
   },
   {
@@ -1040,7 +1041,7 @@
     "timeMonth": 323,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-08-19": 822,
+      "2026-08-19": 861,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1412,17 +1413,17 @@
     "url": "https://alist.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/alist.hiripple.com.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "95.50%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "95.49%",
     "uptimeYear": "98.38%",
     "time": 572,
-    "timeDay": 323,
-    "timeWeek": 354,
-    "timeMonth": 468,
-    "timeYear": 622,
+    "timeDay": 201,
+    "timeWeek": 339,
+    "timeMonth": 460,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 26,
@@ -1454,7 +1455,8 @@
       "2026-08-14": 120,
       "2026-08-15": 28,
       "2026-08-17": 33,
-      "2026-08-18": 36
+      "2026-08-18": 36,
+      "2026-08-19": 1
     }
   },
   {
@@ -1474,7 +1476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 822,
+      "2026-08-19": 861,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1858,7 +1860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 822,
+      "2026-08-19": 861,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -2230,17 +2232,17 @@
     "url": "https://unraid.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.32%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "98.34%",
-    "time": 1389,
-    "timeDay": 898,
-    "timeWeek": 1136,
-    "timeMonth": 1320,
-    "timeYear": 1514,
+    "time": 1388,
+    "timeDay": 476,
+    "timeWeek": 1076,
+    "timeMonth": 1292,
+    "timeYear": 1511,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 25,
@@ -2273,7 +2275,8 @@
       "2026-08-14": 120,
       "2026-08-15": 28,
       "2026-08-17": 33,
-      "2026-08-18": 35
+      "2026-08-18": 35,
+      "2026-08-19": 1
     }
   }
 ]
