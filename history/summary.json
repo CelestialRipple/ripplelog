@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 900,
+      "2026-08-19": 939,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 19645,
     "timeYear": 19634,
     "dailyMinutesDown": {
-      "2026-08-19": 900,
+      "2026-08-19": 939,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -585,7 +585,7 @@
     "timeMonth": 19602,
     "timeYear": 19615,
     "dailyMinutesDown": {
-      "2026-08-19": 900,
+      "2026-08-19": 939,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -957,17 +957,17 @@
     "url": "https://pass.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.hiripple.com.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "18.17%",
-    "uptimeMonth": "10.71%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "18.21%",
+    "uptimeMonth": "10.63%",
     "uptimeYear": "91.20%",
-    "time": 625,
-    "timeDay": 197,
-    "timeWeek": 420,
-    "timeMonth": 379,
-    "timeYear": 588,
+    "time": 627,
+    "timeDay": 731,
+    "timeWeek": 536,
+    "timeMonth": 417,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 27,
@@ -1021,7 +1021,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1165,
-      "2026-08-19": 41
+      "2026-08-19": 76
     }
   },
   {
@@ -1030,7 +1030,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.hiripple.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "59.33%",
+    "uptime": "59.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1041,7 +1041,7 @@
     "timeMonth": 323,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-08-19": 900,
+      "2026-08-19": 939,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1413,17 +1413,17 @@
     "url": "https://alist.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/alist.hiripple.com.ico",
     "slug": "alist",
-    "status": "down",
+    "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "95.40%",
-    "uptimeYear": "98.37%",
-    "time": 572,
-    "timeDay": 201,
-    "timeWeek": 339,
-    "timeMonth": 460,
-    "timeYear": 621,
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "95.32%",
+    "uptimeYear": "98.36%",
+    "time": 573,
+    "timeDay": 485,
+    "timeWeek": 376,
+    "timeMonth": 472,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 26,
@@ -1456,7 +1456,7 @@
       "2026-08-15": 28,
       "2026-08-17": 33,
       "2026-08-18": 36,
-      "2026-08-19": 41
+      "2026-08-19": 76
     }
   },
   {
@@ -1476,7 +1476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 901,
+      "2026-08-19": 939,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1860,7 +1860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 901,
+      "2026-08-19": 939,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -2232,17 +2232,17 @@
     "url": "https://unraid.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "95.50%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "98.33%",
-    "time": 1388,
-    "timeDay": 476,
-    "timeWeek": 1076,
-    "timeMonth": 1292,
-    "timeYear": 1511,
+    "time": 1389,
+    "timeDay": 907,
+    "timeWeek": 1112,
+    "timeMonth": 1302,
+    "timeYear": 1512,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 25,
@@ -2276,7 +2276,7 @@
       "2026-08-15": 28,
       "2026-08-17": 33,
       "2026-08-18": 35,
-      "2026-08-19": 40
+      "2026-08-19": 78
     }
   }
 ]
