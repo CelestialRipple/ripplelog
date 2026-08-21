@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1057,
+      "2026-08-21": 1083,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -483,7 +483,7 @@
     "timeMonth": 19620,
     "timeYear": 19631,
     "dailyMinutesDown": {
-      "2026-08-21": 1057,
+      "2026-08-21": 1083,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -588,7 +588,7 @@
     "timeMonth": 19606,
     "timeYear": 19616,
     "dailyMinutesDown": {
-      "2026-08-21": 1057,
+      "2026-08-21": 1083,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -960,16 +960,16 @@
     "url": "https://pass.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.hiripple.com.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "47.73%",
-    "uptimeMonth": "10.58%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "47.75%",
+    "uptimeMonth": "10.52%",
     "uptimeYear": "91.19%",
     "time": 624,
-    "timeDay": 266,
+    "timeDay": 330,
     "timeWeek": 469,
-    "timeMonth": 396,
+    "timeMonth": 398,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2025-08-24": 420,
@@ -1025,7 +1025,7 @@
       "2026-07-23": 1440,
       "2026-07-22": 1165,
       "2026-08-19": 96,
-      "2026-08-21": 1
+      "2026-08-21": 26
     }
   },
   {
@@ -1045,7 +1045,7 @@
     "timeMonth": 328,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-08-21": 1057,
+      "2026-08-21": 1083,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1417,17 +1417,17 @@
     "url": "https://alist.hiripple.com",
     "icon": "https://icons.duckduckgo.com/ip3/alist.hiripple.com.ico",
     "slug": "alist",
-    "status": "down",
+    "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "98.36%",
-    "time": 574,
-    "timeDay": 271,
-    "timeWeek": 394,
-    "timeMonth": 467,
-    "timeYear": 619,
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "98.35%",
+    "time": 575,
+    "timeDay": 525,
+    "timeWeek": 428,
+    "timeMonth": 478,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-08-24": 420,
       "2025-08-27": 26,
@@ -1461,7 +1461,7 @@
       "2026-08-17": 33,
       "2026-08-18": 36,
       "2026-08-19": 96,
-      "2026-08-21": 1
+      "2026-08-21": 26
     }
   },
   {
@@ -1481,7 +1481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1058,
+      "2026-08-21": 1083,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1865,7 +1865,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1058,
+      "2026-08-21": 1083,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
