@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 702,
-    "timeDay": 327,
-    "timeWeek": 729,
-    "timeMonth": 773,
-    "timeYear": 679,
+    "time": 701,
+    "timeDay": 555,
+    "timeWeek": 670,
+    "timeMonth": 746,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2025-09-01": 22,
       "2025-09-03": 25,
@@ -36,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qinglong",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "35.97%",
-    "uptimeMonth": "82.06%",
-    "uptimeYear": "97.26%",
-    "time": 521,
-    "timeDay": 238,
-    "timeWeek": 248,
-    "timeMonth": 447,
-    "timeYear": 543,
+    "uptime": "99.05%",
+    "uptimeDay": "19.11%",
+    "uptimeWeek": "29.71%",
+    "uptimeMonth": "79.41%",
+    "uptimeYear": "97.03%",
+    "time": 520,
+    "timeDay": 41,
+    "timeWeek": 267,
+    "timeMonth": 439,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2025-09-19": 22,
       "2025-09-21": 77,
@@ -81,7 +81,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
-      "2026-08-30": 4
+      "2026-08-31": 140,
+      "2026-08-30": 1025
     }
   },
   {
@@ -90,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nginx-proxy",
     "status": "down",
-    "uptime": "71.42%",
+    "uptime": "71.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -101,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-30": 420,
+      "2026-08-31": 140,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -464,8 +466,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -479,13 +480,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 19634,
-    "timeDay": 19683,
-    "timeWeek": 19700,
-    "timeMonth": 19616,
-    "timeYear": 19634,
+    "time": 19635,
+    "timeDay": 19699,
+    "timeWeek": 19666,
+    "timeMonth": 19621,
+    "timeYear": 19635,
     "dailyMinutesDown": {
-      "2026-08-30": 420,
+      "2026-08-31": 140,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -588,18 +590,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.hiripple.com.ico",
     "slug": "docker",
     "status": "down",
-    "uptime": "47.00%",
+    "uptime": "46.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 12578,
-    "timeDay": 19606,
-    "timeWeek": 19720,
-    "timeMonth": 19612,
-    "timeYear": 19619,
+    "time": 12640,
+    "timeDay": 19517,
+    "timeWeek": 19724,
+    "timeMonth": 19615,
+    "timeYear": 19618,
     "dailyMinutesDown": {
-      "2026-08-30": 420,
+      "2026-08-31": 140,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -962,8 +965,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -972,16 +974,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pass.hiripple.com.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "29.69%",
+    "uptime": "96.95%",
+    "uptimeDay": "19.30%",
+    "uptimeWeek": "23.67%",
     "uptimeMonth": "20.97%",
-    "uptimeYear": "89.92%",
-    "time": 629,
-    "timeDay": 208,
-    "timeWeek": 862,
-    "timeMonth": 553,
-    "timeYear": 593,
+    "uptimeYear": "89.70%",
+    "time": 628,
+    "timeDay": 63,
+    "timeWeek": 915,
+    "timeMonth": 547,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2025-09-19": 22,
       "2025-09-20": 38,
@@ -1041,7 +1043,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
-      "2026-08-30": 2
+      "2026-08-31": 140,
+      "2026-08-30": 1022
     }
   },
   {
@@ -1050,18 +1053,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.hiripple.com.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "58.71%",
+    "uptime": "58.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 512,
-    "timeDay": 376,
-    "timeWeek": 198,
-    "timeMonth": 300,
-    "timeYear": 458,
+    "time": 510,
+    "timeDay": 57,
+    "timeWeek": 200,
+    "timeMonth": 292,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2026-08-30": 420,
+      "2026-08-31": 140,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -1424,8 +1428,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -1434,16 +1437,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.hiripple.com.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "35.12%",
-    "uptimeMonth": "81.75%",
-    "uptimeYear": "97.19%",
-    "time": 582,
-    "timeDay": 713,
-    "timeWeek": 710,
-    "timeMonth": 528,
-    "timeYear": 622,
+    "uptime": "98.72%",
+    "uptimeDay": "19.32%",
+    "uptimeWeek": "28.83%",
+    "uptimeMonth": "79.10%",
+    "uptimeYear": "96.97%",
+    "time": 581,
+    "timeDay": 59,
+    "timeWeek": 766,
+    "timeMonth": 521,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-09-19": 22,
       "2025-09-20": 38,
@@ -1482,7 +1485,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
-      "2026-08-30": 1
+      "2026-08-31": 140,
+      "2026-08-30": 1021
     }
   },
   {
@@ -1491,7 +1495,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.hiripple.com.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "29.15%",
+    "uptime": "29.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1502,7 +1506,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-30": 420,
+      "2026-08-31": 140,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -1865,8 +1870,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -1886,7 +1890,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-30": 420,
+      "2026-08-31": 141,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -2249,8 +2254,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -2259,16 +2263,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unraid.hiripple.com.ico",
     "slug": "my-nas",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "34.78%",
-    "uptimeMonth": "81.82%",
-    "uptimeYear": "97.16%",
-    "time": 1393,
-    "timeDay": 720,
-    "timeWeek": 733,
-    "timeMonth": 1178,
-    "timeYear": 1395,
+    "uptime": "98.71%",
+    "uptimeDay": "19.37%",
+    "uptimeWeek": "28.48%",
+    "uptimeMonth": "79.17%",
+    "uptimeYear": "96.94%",
+    "time": 1391,
+    "timeDay": 59,
+    "timeWeek": 802,
+    "timeMonth": 1149,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2025-09-19": 22,
       "2025-09-20": 38,
@@ -2307,7 +2311,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
-      "2026-08-30": 1
+      "2026-08-31": 141,
+      "2026-08-30": 1021
     }
   }
 ]
